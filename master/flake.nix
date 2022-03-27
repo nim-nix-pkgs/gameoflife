@@ -11,6 +11,7 @@
   inputs.src-gameoflife-master.ref   = "refs/heads/master";
   inputs.src-gameoflife-master.owner = "jiro4989";
   inputs.src-gameoflife-master.repo  = "gameoflife";
+  inputs.src-gameoflife-master.dir   = "";
   inputs.src-gameoflife-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
