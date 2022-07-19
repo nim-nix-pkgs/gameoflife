@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658017933,
-        "narHash": "sha256-j3IJcTpyRlaJqCFdfBWfOwzt6i7OHpPmpiV/bMudyGg=",
+        "lastModified": 1658031879,
+        "narHash": "sha256-lKIeaLWF6lH0u126gDPGpBw/HHBn3nBrGY2U7zbJkXI=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "885f080e7ef09368944e10704dfc39a2d17137e2",
+        "rev": "d5cca9632277a8ae7d2bcb8bd3595dca32ef410a",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1658017933,
-        "narHash": "sha256-j3IJcTpyRlaJqCFdfBWfOwzt6i7OHpPmpiV/bMudyGg=",
+        "lastModified": 1658031879,
+        "narHash": "sha256-lKIeaLWF6lH0u126gDPGpBw/HHBn3nBrGY2U7zbJkXI=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "885f080e7ef09368944e10704dfc39a2d17137e2",
+        "rev": "d5cca9632277a8ae7d2bcb8bd3595dca32ef410a",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v1_3_0",
-        "lastModified": 1658017933,
-        "narHash": "sha256-j3IJcTpyRlaJqCFdfBWfOwzt6i7OHpPmpiV/bMudyGg=",
+        "lastModified": 1658031879,
+        "narHash": "sha256-lKIeaLWF6lH0u126gDPGpBw/HHBn3nBrGY2U7zbJkXI=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "885f080e7ef09368944e10704dfc39a2d17137e2",
+        "rev": "d5cca9632277a8ae7d2bcb8bd3595dca32ef410a",
         "type": "github"
       },
       "original": {
