@@ -164,11 +164,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334486,
-        "narHash": "sha256-/KAdEDtgTiBmAnkqIFVJTvBrrHDqi5bkWufWK9dEHig=",
+        "lastModified": 1668748766,
+        "narHash": "sha256-waWLkkzbVym9gUL+ndRjUZMuRP4WixV+fYDpty/dUlc=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "d4666571aa0ca8936ba56f9b43427ce2ef9fc987",
+        "rev": "e4ccfcd01cef3a8ce51da22a4aa7a86e3d0e0cc2",
         "type": "github"
       },
       "original": {
@@ -191,11 +191,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1667334486,
-        "narHash": "sha256-/KAdEDtgTiBmAnkqIFVJTvBrrHDqi5bkWufWK9dEHig=",
+        "lastModified": 1668748766,
+        "narHash": "sha256-waWLkkzbVym9gUL+ndRjUZMuRP4WixV+fYDpty/dUlc=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "d4666571aa0ca8936ba56f9b43427ce2ef9fc987",
+        "rev": "e4ccfcd01cef3a8ce51da22a4aa7a86e3d0e0cc2",
         "type": "github"
       },
       "original": {
@@ -218,11 +218,11 @@
       },
       "locked": {
         "dir": "v1_3_0",
-        "lastModified": 1667334486,
-        "narHash": "sha256-/KAdEDtgTiBmAnkqIFVJTvBrrHDqi5bkWufWK9dEHig=",
+        "lastModified": 1668748766,
+        "narHash": "sha256-waWLkkzbVym9gUL+ndRjUZMuRP4WixV+fYDpty/dUlc=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "d4666571aa0ca8936ba56f9b43427ce2ef9fc987",
+        "rev": "e4ccfcd01cef3a8ce51da22a4aa7a86e3d0e0cc2",
         "type": "github"
       },
       "original": {
@@ -245,11 +245,11 @@
       },
       "locked": {
         "dir": "v1_4_0",
-        "lastModified": 1667334486,
-        "narHash": "sha256-/KAdEDtgTiBmAnkqIFVJTvBrrHDqi5bkWufWK9dEHig=",
+        "lastModified": 1668748766,
+        "narHash": "sha256-waWLkkzbVym9gUL+ndRjUZMuRP4WixV+fYDpty/dUlc=",
         "owner": "nim-nix-pkgs",
         "repo": "gameoflife",
-        "rev": "d4666571aa0ca8936ba56f9b43427ce2ef9fc987",
+        "rev": "e4ccfcd01cef3a8ce51da22a4aa7a86e3d0e0cc2",
         "type": "github"
       },
       "original": {
@@ -321,11 +321,11 @@
     "src-gameoflife-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1658498357,
-        "narHash": "sha256-viL5hwXuZFbBVqp+iZqOPVw5T6AAs8f0Iw0iUg91ndY=",
+        "lastModified": 1668683618,
+        "narHash": "sha256-8kni+M5MHD7DZnnd8J5I0bIhhQtYCNs4IhRTCFb4FRI=",
         "owner": "jiro4989",
         "repo": "gameoflife",
-        "rev": "e38cda2ac81f4adf355cbbe3b0c95d5cbac7dcbd",
+        "rev": "f3b53331e5de3280fe913dba4c862cf5dc5aced3",
         "type": "github"
       },
       "original": {
